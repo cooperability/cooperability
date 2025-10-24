@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%234285F4?style=flat-square)](https://www.linkedin.com/in/cooper-reed/)
 
 ---
-
-### 📚 My Stack
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-%23663399?style=flat-square&logo=css)
@@ -43,8 +41,6 @@
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
 
 ---
-
-### 📊 My Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham" width="57%" alt="cooperability's stats"/>
@@ -53,7 +49,7 @@
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!-- ![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
 ![Followers](https://img.shields.io/github/followers/cooperability?style=social) -->
