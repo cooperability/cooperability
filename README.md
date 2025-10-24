@@ -2,6 +2,8 @@
 [![Resume](https://img.shields.io/badge/-Resume-%234285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%234285F4?style=flat-square)](https://www.linkedin.com/in/cooper-reed/)
 
+---
+
 ### 📚 My Stack
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -40,11 +42,13 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
 
+---
+
 ### 📊 My Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham" width="55%" alt="cooperability's stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperability&show_icons=true&theme=gotham&locale=en&layout=compact" width="44%" alt="cooperability's languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham" width="57%" alt="cooperability's stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperability&show_icons=true&theme=gotham&locale=en&layout=compact" width="42%" alt="cooperability's languages" />
   </a>
 </div>
 
