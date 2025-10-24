@@ -1,42 +1,51 @@
 ## Hi I'm Cooper! **[Website](https://cooperability.com) // [Resume](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing) // [LinkedIn](https://www.linkedin.com/in/cooperability/)**
 
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cooperability.com&url=https%3A%2F%2Fcooperability.com)](https://cooperability.com)
-[![Resume](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-[![LinkedIn](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cooper-reed/)
+[![Resume](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Resume)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cooper-reed/)
 
 **Frontend:**
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-%663399?style=flat-square&logo=css)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/-shadcnui-%000000?style=flat-square&logo=shadcn-ui)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Svelte](https://img.shields.io/badge/-svelte-%FF3E00?style=flat-square&logo=svelte)
+![Redux](https://img.shields.io/badge/-redux-%764ABC?style=flat-square&logo=redux)
 
 **Backend**:
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-python-%3776AB?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-django-%092E20?style=flat-square&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-mongodb-%47A248?&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/-neo4j-%4581C3?&logo=neo4j)
 
 **DevOps:**
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%2496ED?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-%2496ED?style=flat-square&logo=docker&logoColor=%23ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Poetry](https://img.shields.io/badge/-poetry-%60A5FA?style=flat-square&logo=poetry)
+![CircleCI](https://img.shields.io/badge/-circleci-%8669AE?style=flat-square&logo=circleci)
 
 ---
 ## 📊 Statistics 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width="49%" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperability&show_icons=true&theme=gotham&locale=en&layout=compact" alt="cooperability's languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperability&show_icons=true&theme=gotham&locale=en&layout=compact" width="49%" alt="cooperability's languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham" width="49%" alt="cooperability's stats"/>
   </a>
 </div>
 
 ![cooperability's github stats](https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham)
-[![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 ![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
@@ -52,3 +61,7 @@
 
 **DevOps:**
 [![DevOps](https://skillicons.dev/icons?i=docker,github,gitlab,heroku,kubernetes,postman)](https://skillicons.dev) -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+<!-- https://simpleicons.org/ -->
