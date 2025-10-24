@@ -10,6 +10,18 @@
 [![DevOps](https://skillicons.dev/icons?i=docker,github,gitlab,heroku,kubernetes,postman)](https://skillicons.dev)
 
 ---
+## 📊 Statistics 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/cooperability" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width="49%" />
+  </a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperability&show_icons=true&locale=en&layout=compact" alt="cooperability's languages" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&locale=en" alt="cooperability's stats" /></p>
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=tokyonight-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
