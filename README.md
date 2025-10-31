@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-%23663399?style=flat-square&logo=css)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=ffffff)
 ![Nextjs](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 ![shadcnui](https://img.shields.io/badge/-Shadcn/ui-%23000000?style=flat-square&logo=shadcnui)
@@ -38,6 +38,8 @@
 **Tooling:**
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=ffffff)
+![Workbox](https://img.shields.io/badge/-Workbox-%2346E3B7?style=flat-square&logo=workbox&logoColor=ffffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
 
@@ -51,6 +53,8 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+<!-- Skill Icons & Resources used-->
 
 <!-- ![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
 ![Followers](https://img.shields.io/github/followers/cooperability?style=social) -->
