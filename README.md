@@ -44,29 +44,13 @@
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
 
 ---
-**Stats:**
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham" width="57%" alt="cooperability's stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperability&show_icons=true&theme=gotham&locale=en&layout=compact" width="42%" alt="cooperability's languages" />
-  </a>
-</div>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
+![Stars](https://img.shields.io/github/stars/cooperability?style=social)
 ![Followers](https://img.shields.io/github/followers/cooperability?style=social)
-![Views](https://img.shields.io/github/views/cooperability?style=social)
-
-![cooperability's github stats](https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham)
+![Followers](https://img.shields.io/github/starred/cooperability?style=social)
 
 <!-- Skill Icons & Resources used-->
-
 <!-- https://shields.io/ -->
-<!-- https://simpleicons.org/ -->
 
 <!-- Theme Docs for stat cards -->
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md -->
