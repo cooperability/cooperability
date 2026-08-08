@@ -44,6 +44,7 @@
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
 
 ---
+**Stats:**
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham" width="57%" alt="cooperability's stats"/>
@@ -54,28 +55,16 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
+![Followers](https://img.shields.io/github/followers/cooperability?style=social)
+![Views](https://img.shields.io/github/views/cooperability?style=social)
+
+![cooperability's github stats](https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham)
+
 <!-- Skill Icons & Resources used-->
 
-<!-- ![Stars](https://img.shields.io/github/stars/cooperability?style=social)  
-![Followers](https://img.shields.io/github/followers/cooperability?style=social) -->
-
-<!-- ![cooperability's github stats](https://github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&theme=gotham) -->
-
-<!-- ![Views](https://img.shields.io/github/views/cooperability?style=social)   -->
-
-
-<!-- **Frontend:**
-[![Frontend](https://skillicons.dev/icons?i=ts,nextjs,css,tailwind,svelte,vercel,vue)](https://skillicons.dev)
-
-**Backend:**
-[![Backend](https://skillicons.dev/icons?i=python,postgresql,django,gcp)](https://skillicons.dev)
-
-**DevOps:**
-[![DevOps](https://skillicons.dev/icons?i=docker,github,gitlab,heroku,kubernetes,postman)](https://skillicons.dev) -->
-
+<!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
-
-<!-- **[Website](https://cooperability.com) // [Resume](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing) // [LinkedIn](https://www.linkedin.com/in/cooperability/)** -->
 
 <!-- Theme Docs for stat cards -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
