@@ -37,14 +37,30 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=flat-square)
 
-
 **Tooling:**
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=ffffff)
 ![Workbox](https://img.shields.io/badge/-Workbox-%2346E3B7?style=flat-square&logo=workbox&logoColor=ffffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
+
+**Cloud:**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+
+**OS:**
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
