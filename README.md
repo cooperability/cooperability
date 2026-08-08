@@ -45,9 +45,10 @@
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ![Stars](https://img.shields.io/github/stars/cooperability?style=social)
+
 ![Followers](https://img.shields.io/github/followers/cooperability?style=social)
-![Followers](https://img.shields.io/github/starred/cooperability?style=social)
 
 <!-- Skill Icons & Resources used-->
 <!-- https://shields.io/ -->
