@@ -2,9 +2,6 @@
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cooperability.com&url=https%3A%2F%2Fcooperability.com)](https://cooperability.com)
 [![Resume](https://img.shields.io/badge/-Resume-%234285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%234285F4?style=flat-square)](https://www.linkedin.com/in/cooper-reed/)
-    **||    Stats:**
-![Stars](https://img.shields.io/github/stars/cooperability?style=social)
-![Followers](https://img.shields.io/github/followers/cooperability?style=social)
 
 ---
 **Frontend:**
@@ -63,6 +60,8 @@
 
 <!-- Skill Icons & Resources used-->
 <!-- https://shields.io/ -->
+<!-- ![Stars](https://img.shields.io/github/stars/cooperability?style=social) -->
+<!-- ![Followers](https://img.shields.io/github/followers/cooperability?style=social) -->
 
 <!-- Theme Docs for stat cards -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md -->
