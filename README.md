@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cooperability.com&url=https%3A%2F%2Fcooperability.com)](https://cooperability.com)
 [![Resume](https://img.shields.io/badge/-Resume-%234285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%234285F4?style=flat-square)](https://www.linkedin.com/in/cooper-reed/)
-  **||  Stats:**
+    **||    Stats:**
 ![Stars](https://img.shields.io/github/stars/cooperability?style=social)
 ![Followers](https://img.shields.io/github/followers/cooperability?style=social)
 
@@ -31,10 +31,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![CircleCI](https://img.shields.io/badge/-Circleci-%238669AE?style=flat-square&logo=circleci)
-![Google Cloud Platform](https://img.shields.io/badge/-GCP-%234285F4?&logo=googlecloud&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23430098?style=flat-square)
 
 **Tooling:**
@@ -47,13 +51,6 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Poetry](https://img.shields.io/badge/-Poetry-%2360A5FA?style=flat-square&logo=poetry&logoColor=ffffff)
 
-**Cloud:**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 **OS:**
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
