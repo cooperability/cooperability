@@ -1,3 +1,177 @@
+## Skillset
+
+A map of the shields below, grouped by what kind of thing each one is — not a diagram of cooperability.com.
+
+```mermaid
+flowchart LR
+  classDef built fill:#dff5e1,stroke:#2e7d32,color:#1b3d20
+
+  subgraph skills ["At a glance"]
+    direction LR
+    links(["Links"]):::built
+    fe["Frontend"]:::built
+    be["Backend"]:::built
+    db[("Databases")]:::built
+    ops{{"DevOps"}}:::built
+    tools["Tooling"]:::built
+    os["OS"]:::built
+  end
+```
+
+**Shapes:** stadium = a public entry · rectangle = code you run · cylinder = data at rest · hexagon = someone else's system. GitHub renders mermaid natively. VS Code's built-in preview shows the fence as a code block unless the [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) extension is installed.
+
+Icon-only nodes and click-to-magnify are **not** something GitHub mermaid can do today (`click` is stripped; icon packs need JavaScript the README renderer never runs). The working substitute: open a group to magnify it into named, typed nodes.
+
+<details>
+<summary>Links</summary>
+
+```mermaid
+flowchart LR
+  web(["cooperability.com"])
+  resume[/Resume/]
+  li{{LinkedIn}}
+```
+
+</details>
+
+<details>
+<summary>Frontend</summary>
+
+```mermaid
+flowchart LR
+  html5[HTML5]
+  css[CSS]
+  ts[TypeScript]
+  react[React]
+  next["Next.js"]
+  tw[Tailwind]
+  shadcn["shadcn/ui"]
+  redux[Redux]
+  svelte[Svelte]
+```
+
+</details>
+
+<details>
+<summary>Backend and databases</summary>
+
+```mermaid
+flowchart LR
+  py[Python]
+  tsbe[TypeScript]
+  node["Node.js"]
+  dj[Django]
+  pg[(PostgreSQL)]
+  mongo[(MongoDB)]
+  neo[(Neo4j)]
+```
+
+</details>
+
+<details>
+<summary>DevOps</summary>
+
+```mermaid
+flowchart LR
+  git[Git]
+  gl{{GitLab}}
+  docker[Docker]
+  tf[Terraform]
+  k8s[Kubernetes]
+  gcp{{"Google Cloud"}}
+  rail{{Railway}}
+  vercel{{Vercel}}
+  fb{{Firebase}}
+  heroku{{Heroku}}
+  cci{CircleCI}
+```
+
+</details>
+
+<details>
+<summary>Tooling</summary>
+
+```mermaid
+flowchart LR
+  vite[Vite]
+  eslint[ESLint]
+  jest[Jest]
+  wb[Workbox]
+  prettier[Prettier]
+  poetry[Poetry]
+  dep{Dependabot}
+  gha{"GitHub Actions"}
+```
+
+</details>
+
+<details>
+<summary>OS</summary>
+
+```mermaid
+flowchart LR
+  android[Android]
+  ios[iOS]
+  linux[Linux]
+  mac[macOS]
+  win[Windows]
+```
+
+</details>
+
+<details>
+<summary>Proposed mermaid features (the icon-only click-to-magnify)</summary>
+
+What mermaid would need so the glance diagram *is* the shields, and clicking DevOps magnifies that shape in place:
+
+1. **`reveal: click` on subgraphs.** Mermaid 11.17 can *declare* `@{ view: collapsed }`, but that is a static re-render, not a click. Hosted READMEs still strip `click`. Compile `reveal: click` to real SVG toggle where JS runs, and to `<details>` where it does not (GitHub, GitLab).
+2. **Icon-only nodes with kind preserved.** `icon` / `img` shapes exist, but GitHub does not register Iconify packs, and Font Awesome renders as the literal `fa:fa-*` text. Inline simple-icons at render time, and let `form` be the same kind-shape vocabulary (stadium, cylinder, hexagon, diamond) — not only square/circle/rounded.
+3. **`labelMode: icon | hover | expand`.** Glance = icon + shape; magnify = every badge name. One source file, two views, no second diagram.
+
+How that interaction is supposed to feel:
+
+```mermaid
+stateDiagram-v2
+  [*] --> Glance
+  Glance --> Magnified: click DevOps
+  Magnified --> Glance: click to collapse
+```
+
+How a hosted README should degrade when the renderer cannot run JS:
+
+```mermaid
+flowchart LR
+  src[/Skillset source/]
+  live["mermaid.live"]
+  gh{{"GitHub README"}}
+  src --> live
+  src --> gh
+  live -->|"proposed reveal click"| ui[In-place magnify]
+  gh -->|"today: click stripped"| svg[["Static SVG"]]
+  gh -->|"proposed fallback"| html[["details summary"]]
+```
+
+Proposed source that would replace the glance diagram plus the `<details>` blocks above. This fence is `text` on purpose — it is not valid mermaid yet, and a mermaid fence that does not parse becomes a red error box on GitHub.
+
+```text
+flowchart LR
+  subgraph ops ["DevOps"] @{ view: collapsed, reveal: click, labelMode: icon }
+    git@{ icon: "simple-icons:git", form: "square" }
+    gitlab@{ icon: "simple-icons:gitlab", form: "hexagon" }
+    docker@{ icon: "simple-icons:docker", form: "square" }
+    gcp@{ icon: "simple-icons:googlecloud", form: "hexagon" }
+    vercel@{ icon: "simple-icons:vercel", form: "hexagon" }
+    k8s@{ icon: "simple-icons:kubernetes", form: "square" }
+    circleci@{ icon: "simple-icons:circleci", form: "diamond" }
+  end
+```
+
+Related mermaid work: [click/hover expand #5508](https://github.com/mermaid-js/mermaid/issues/5508), [collapsed subgraphs #7785](https://github.com/mermaid-js/mermaid/pull/7785) (static), [icon packs in config #7113](https://github.com/mermaid-js/mermaid/pull/7113).
+
+</details>
+
+---
+
 **Links:** 
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cooperability.com&url=https%3A%2F%2Fcooperability.com)](https://cooperability.com)
 [![Resume](https://img.shields.io/badge/-Resume-%234285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
