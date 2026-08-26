@@ -1,3 +1,65 @@
+## Stack map
+
+```mermaid
+flowchart TD
+  classDef built fill:#dff5e1,stroke:#2e7d32,color:#1b3d20
+
+  visitor((Visitor)):::built
+
+  subgraph public ["Public surface"]
+    site(["cooperability.com"]):::built
+    profile(["GitHub profile"]):::built
+    resume[/"Resume"/]:::built
+    linkedin{{"LinkedIn"}}:::built
+  end
+
+  subgraph app ["Application"]
+    fe["Next React Tailwind"]:::built
+    be["Django Node Python"]:::built
+  end
+
+  data[("Postgres Mongo Neo4j")]:::built
+
+  subgraph platform ["Cloud and delivery"]
+    host{{"Vercel GCP Railway"}}:::built
+    iac["Docker K8s Terraform"]:::built
+    cicd{"Actions CircleCI"}:::built
+    tools["Vite ESLint Jest"]:::built
+  end
+
+  os["Desktop and mobile OS"]:::built
+
+  visitor ==>|site| site
+  visitor --> profile
+  profile -.-> resume
+  profile -.-> linkedin
+  site --> fe
+  fe --> be
+  be --> data
+  fe --> host
+  be --> iac
+  fe --> tools
+  tools --> cicd
+  cicd -.->|ship| host
+  iac -.-> os
+```
+
+GitHub renders this diagram natively. VS Code's built-in markdown preview shows the fence as a code block unless the [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) extension is installed.
+
+**Legend:** green fill is a component listed in the shields below. This repository is the GitHub profile README only; the boxes describe that advertised stack, not a runtime defined in this repo.
+
+**Public surface.** A visitor arrives through the live site or this profile. Resume and LinkedIn sit across ownership lines (Google Drive, LinkedIn), so they are documents and foreign systems rather than app code.
+
+**Application.** Frontend (Next.js, React, TypeScript, HTML, CSS, Tailwind, shadcn/ui, Redux, Svelte) is the UI you own. Backend (Django, Python, Node.js, TypeScript) is a separate process boundary — different runtime, different deploy.
+
+**Data.** PostgreSQL, MongoDB, and Neo4j outlive the request; they are stores, not services.
+
+**Cloud and delivery.** Vercel, Google Cloud, Railway, Firebase, and Heroku are other people's uptime. Docker, Kubernetes, and Terraform are the IaC you author to talk to them. Git and GitLab are the source-control side of that boundary. GitHub Actions, CircleCI, and Dependabot are gates that can reject a ship. Vite, ESLint, Jest, Workbox, Prettier, and Poetry stay on the build side of that gate.
+
+**OS.** Windows, macOS, Linux, Android, and iOS are where that stack runs. They are not a hop on the request path.
+
+---
+
 **Links:** 
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cooperability.com&url=https%3A%2F%2Fcooperability.com)](https://cooperability.com)
 [![Resume](https://img.shields.io/badge/-Resume-%234285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
