@@ -58,6 +58,9 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&include_all_commits=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cooperability&langs_count=8&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Skill Icons & Resources used-->
 <!-- https://shields.io/ -->
 <!-- ![Stars](https://img.shields.io/github/stars/cooperability?style=social) -->
@@ -65,3 +68,4 @@
 
 <!-- Theme Docs for stat cards -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
