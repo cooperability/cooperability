@@ -57,17 +57,15 @@
 
 ---
 
-**Skillset** (by kind). GitHub renders mermaid natively. VS Code's built-in preview shows the fence as a code block unless the [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) extension is installed.
+**Experience**
 
 ```mermaid
 flowchart LR
-  subgraph skills ["Experience"]
-    direction LR
-    links(["Links"]) ~~~ fe["Frontend"] ~~~ be["Backend"] ~~~ db[("Databases")] ~~~ ops{{"DevOps"}} ~~~ tools["Tooling"] ~~~ os["OS"]
-  end
+  classDef kind fill:#e8eef7,stroke:#3d5a80,color:#1b2430
+  fe["Frontend"]:::kind ~~~ be["Backend"]:::kind ~~~ db[("Databases")]:::kind ~~~ ops{{"DevOps"}}:::kind ~~~ tools["Tooling"]:::kind ~~~ os["OS"]:::kind
 ```
 
-**Shapes:** stadium = public entry. rectangle = code you run. cylinder = data at rest. hexagon = someone else's system.
+**Shapes:** rectangle = code you run. cylinder = data at rest. hexagon = someone else's system. GitHub renders mermaid natively. VS Code's built-in preview shows the fence as a code block unless the [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) extension is installed.
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
