@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cooperability.cooperability" alt="visitor badge"/>
+</p>
+
 **Links:** 
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cooperability.com&url=https%3A%2F%2Fcooperability.com)](https://cooperability.com)
 [![Resume](https://img.shields.io/badge/-Resume-%234285F4?style=flat-square&logo=googledocs&logoColor=ffffff)](https://drive.google.com/file/d/1-mHF7SH3ym9QI8jKBtpKKzvbJM8L1Ovc/view?usp=sharing)
@@ -58,6 +62,9 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&include_all_commits=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cooperability&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Skill Icons & Resources used-->
 <!-- https://shields.io/ -->
 <!-- ![Stars](https://img.shields.io/github/stars/cooperability?style=social) -->
@@ -65,3 +72,4 @@
 
 <!-- Theme Docs for stat cards -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
