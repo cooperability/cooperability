@@ -25,7 +25,6 @@
 
 **DevOps/Infra/Cloud:**
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
@@ -54,7 +53,6 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=cooperability&theme=gotham&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=cooperability&show_icons=true&include_all_commits=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cooperability&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Skill Icons & Resources used-->
